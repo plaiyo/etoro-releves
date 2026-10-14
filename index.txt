@@ -106,3 +106,4 @@ derniers/graphiques/XPEV.png
 derniers/horodatage.txt
 derniers/resultats.json
 index.txt
+releve_cloture.txt
