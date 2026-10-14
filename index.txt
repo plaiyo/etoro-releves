@@ -105,3 +105,4 @@ derniers/graphiques/XOM.png
 derniers/graphiques/XPEV.png
 derniers/horodatage.txt
 derniers/resultats.json
+index.txt
