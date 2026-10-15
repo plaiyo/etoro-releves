@@ -108,3 +108,4 @@ derniers/resultats.json
 index.txt
 releve_cloture.txt
 releve_ouverture.txt
+releve_ouverture_1h.txt
