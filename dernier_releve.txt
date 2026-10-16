@@ -1,22 +1,22 @@
-=== Relevé eToro DEMO — 2026-10-16 21:20:53 ===
+=== Relevé eToro DEMO — 2026-10-16 22:37:55 ===
 
 --- SEUILS DE REENTREE / VIGILANCE ---
-VRT : 207.32 USD — zone de vigilance 240.00-255.00 USD (SOUS la zone (encore 32.68 USD plus bas que le plancher))
-LITE : 830.58 USD — seuil 700.00 USD (+18.65 %, au-dessus du seuil)
-CRDO : 170.04 USD — seuil 160.00 USD (+6.27 %, au-dessus du seuil)
-CCJ : 80.92 USD — zone de vigilance 85.00-95.00 USD (SOUS la zone (encore 4.08 USD plus bas que le plancher))
-AAOI : 76.49 USD — zone de vigilance 80.00-100.00 USD (SOUS la zone (encore 3.51 USD plus bas que le plancher))
-FN : 365.00 USD — zone de vigilance 400.00-450.00 USD (SOUS la zone (encore 35.00 USD plus bas que le plancher))
-ANET : 177.99 USD — zone de vigilance 160.00-175.00 USD (au-dessus de la zone (encore 2.99 USD avant le plafond))
+VRT : 205.96 USD — zone de vigilance 240.00-255.00 USD (SOUS la zone (encore 34.04 USD plus bas que le plancher))
+LITE : 823.28 USD — seuil 700.00 USD (+17.61 %, au-dessus du seuil)
+CRDO : 169.42 USD — seuil 160.00 USD (+5.89 %, au-dessus du seuil)
+CCJ : 81.52 USD — zone de vigilance 85.00-95.00 USD (SOUS la zone (encore 3.48 USD plus bas que le plancher))
+AAOI : 75.70 USD — zone de vigilance 80.00-100.00 USD (SOUS la zone (encore 4.30 USD plus bas que le plancher))
+FN : 363.20 USD — zone de vigilance 400.00-450.00 USD (SOUS la zone (encore 36.80 USD plus bas que le plancher))
+ANET : 176.77 USD — zone de vigilance 160.00-175.00 USD (au-dessus de la zone (encore 1.77 USD avant le plafond))
 
 --- HISTORIQUE (pour graphiques) ---
-VRT : 90 bougies (2026-06-10 -> 2026-10-16), clôture 207.20 (-26.21 % sur la période) — graphique : VRT_2026-10-16_2118.png
-LITE : 90 bougies (2026-06-10 -> 2026-10-16), clôture 829.83 (-2.79 % sur la période) — graphique : LITE_2026-10-16_2118.png
-CRDO : 90 bougies (2026-06-12 -> 2026-10-16), clôture 170.11 (-32.15 % sur la période) — graphique : CRDO_2026-10-16_2118.png
-CCJ : 90 bougies (2026-06-10 -> 2026-10-16), clôture 80.87 (-14.83 % sur la période) — graphique : CCJ_2026-10-16_2118.png
-AAOI : 90 bougies (2026-06-10 -> 2026-10-16), clôture 76.49 (-56.28 % sur la période) — graphique : AAOI_2026-10-16_2118.png
-FN : 90 bougies (2026-06-10 -> 2026-10-16), clôture 364.46 (-37.10 % sur la période) — graphique : FN_2026-10-16_2118.png
-ANET : 90 bougies (2026-06-12 -> 2026-10-16), clôture 177.86 (+8.98 % sur la période) — graphique : ANET_2026-10-16_2118.png
+VRT : 90 bougies (2026-06-10 -> 2026-10-16), clôture 205.96 (-26.65 % sur la période) — graphique : VRT_2026-10-16_2235.png
+LITE : 90 bougies (2026-06-10 -> 2026-10-16), clôture 823.28 (-3.56 % sur la période) — graphique : LITE_2026-10-16_2235.png
+CRDO : 90 bougies (2026-06-12 -> 2026-10-16), clôture 169.42 (-32.43 % sur la période) — graphique : CRDO_2026-10-16_2235.png
+CCJ : 90 bougies (2026-06-10 -> 2026-10-16), clôture 81.52 (-14.14 % sur la période) — graphique : CCJ_2026-10-16_2235.png
+AAOI : 90 bougies (2026-06-10 -> 2026-10-16), clôture 75.70 (-56.73 % sur la période) — graphique : AAOI_2026-10-16_2235.png
+FN : 90 bougies (2026-06-10 -> 2026-10-16), clôture 363.20 (-37.31 % sur la période) — graphique : FN_2026-10-16_2235.png
+ANET : 90 bougies (2026-06-12 -> 2026-10-16), clôture 176.77 (+8.31 % sur la période) — graphique : ANET_2026-10-16_2235.png
 
 --- FAVORIS ETORO (WATCHLIST) ---
 Air Liquide SA (AI.PA) — rang -18
@@ -126,39 +126,39 @@ Silver (Non Expiry) (SILVER) — rang 14
 [Samsung Electronics Co Ltd - GDR] ACHAT->VENTE — ouvert 2026-07-13T08:10:40.33Z @ 4339.0 -> cloture 2026-08-06T10:53:23.197Z @ 4047.0 (-6.73%) — 0.806451 unites, investi 3499.19, net P&L -235.48, positionId 3561620258
 
 --- POSITIONS DETENUES (portefeuille DEMO complet) ---
-[Gold (Non Expiry)] {"instrumentId": 18, "assetCurrency": "USD", "totalMarginAccountCurrency": 9699.68, "totalFees": 0, "totalFeesAcctCcy": 0, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 9699.68, "pnlAssetCurrency": -512.52, "accountCurrencyRoePercent": -5.28, "netContracts": 2.208409, "netUnits": 2.208409, "netCurrentExposureAssetCurrency": 9187.19, "netCurrentExposureAccountCurrency": 9187.19, "netInitialExposureAccountCurrency": 9699.71, "accountCurrencyReturn": -512.52, "liquidationValueAccountCurrency": 9187.16, "liquidationValueAssetCurrency": 9187.16, "avgLeverage": 1, "avgOpenRate": 4392.1695469997, "netAvgOpenRate": 4392.1695469997, "avgConversionRate": 1}
-[Apple] {"instrumentId": 1001, "assetCurrency": "USD", "totalMarginAccountCurrency": 8363.39, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8363.39, "pnlAssetCurrency": 2069.64, "accountCurrencyRoePercent": 24.75, "netContracts": 30.470305, "netUnits": 30.470305, "netCurrentExposureAssetCurrency": 10433.04, "netCurrentExposureAccountCurrency": 10433.04, "netInitialExposureAccountCurrency": 8363.4, "accountCurrencyReturn": 2069.64, "liquidationValueAccountCurrency": 10433.03, "liquidationValueAssetCurrency": 10433.03, "avgLeverage": 1, "avgOpenRate": 274.4769272182, "netAvgOpenRate": 274.4769272182, "avgConversionRate": 1}
-[Alphabet] {"instrumentId": 1002, "assetCurrency": "USD", "totalMarginAccountCurrency": 6497.57, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 6497.57, "pnlAssetCurrency": 454.55, "accountCurrencyRoePercent": 7, "netContracts": 20.672379, "netUnits": 20.672379, "netCurrentExposureAssetCurrency": 6952.13, "netCurrentExposureAccountCurrency": 6952.13, "netInitialExposureAccountCurrency": 6497.58, "accountCurrencyReturn": 454.55, "liquidationValueAccountCurrency": 6952.12, "liquidationValueAssetCurrency": 6952.12, "avgLeverage": 1, "avgOpenRate": 314.3119029697, "netAvgOpenRate": 314.3119029697, "avgConversionRate": 1}
-[Microsoft] {"instrumentId": 1004, "assetCurrency": "USD", "totalMarginAccountCurrency": 8470.04, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8470.04, "pnlAssetCurrency": 2505.73, "accountCurrencyRoePercent": 29.59, "netContracts": 20.870428, "netUnits": 20.870428, "netCurrentExposureAssetCurrency": 10975.76, "netCurrentExposureAccountCurrency": 10975.76, "netInitialExposureAccountCurrency": 8470.04, "accountCurrencyReturn": 2505.73, "liquidationValueAccountCurrency": 10975.77, "liquidationValueAssetCurrency": 10975.77, "avgLeverage": 1, "avgOpenRate": 405.8390727694, "netAvgOpenRate": 405.8390727694, "avgConversionRate": 1}
-[UnitedHealth] {"instrumentId": 1032, "assetCurrency": "USD", "totalMarginAccountCurrency": 7499.45, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 7499.45, "pnlAssetCurrency": 46.47, "accountCurrencyRoePercent": 0.62, "netContracts": 18.813044, "netUnits": 18.813044, "netCurrentExposureAssetCurrency": 7545.92, "netCurrentExposureAccountCurrency": 7545.92, "netInitialExposureAccountCurrency": 7499.45, "accountCurrencyReturn": 46.47, "liquidationValueAccountCurrency": 7545.92, "liquidationValueAssetCurrency": 7545.92, "avgLeverage": 1, "avgOpenRate": 398.6302788151, "netAvgOpenRate": 398.6302788151, "avgConversionRate": 1}
-[Raytheon-Technologies] {"instrumentId": 1033, "assetCurrency": "USD", "totalMarginAccountCurrency": 3296.75, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3296.75, "pnlAssetCurrency": -159.3, "accountCurrencyRoePercent": -4.83, "netContracts": 16.272189, "netUnits": 16.272189, "netCurrentExposureAssetCurrency": 3137.45, "netCurrentExposureAccountCurrency": 3137.45, "netInitialExposureAccountCurrency": 3296.75, "accountCurrencyReturn": -159.3, "liquidationValueAccountCurrency": 3137.45, "liquidationValueAssetCurrency": 3137.45, "avgLeverage": 1, "avgOpenRate": 202.6, "netAvgOpenRate": 202.6, "avgConversionRate": 1}
-[NVIDIA Corporation] {"instrumentId": 1137, "assetCurrency": "USD", "totalMarginAccountCurrency": 2499.88, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 2499.88, "pnlAssetCurrency": -38.43, "accountCurrencyRoePercent": -1.53, "netContracts": 11.507479, "netUnits": 11.507479, "netCurrentExposureAssetCurrency": 2461.45, "netCurrentExposureAccountCurrency": 2461.45, "netInitialExposureAccountCurrency": 2499.89, "accountCurrencyReturn": -38.43, "liquidationValueAccountCurrency": 2461.45, "liquidationValueAssetCurrency": 2461.45, "avgLeverage": 1, "avgOpenRate": 217.24, "netAvgOpenRate": 217.24, "avgConversionRate": 1}
-[Valero Energy Corp] {"instrumentId": 1497, "assetCurrency": "USD", "totalMarginAccountCurrency": 3199.75, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3199.75, "pnlAssetCurrency": 581.64, "accountCurrencyRoePercent": 18.18, "netContracts": 8.46628, "netUnits": 8.46628, "netCurrentExposureAssetCurrency": 3781.38, "netCurrentExposureAccountCurrency": 3781.38, "netInitialExposureAccountCurrency": 3199.75, "accountCurrencyReturn": 581.64, "liquidationValueAccountCurrency": 3781.39, "liquidationValueAssetCurrency": 3781.39, "avgLeverage": 1, "avgOpenRate": 377.94, "netAvgOpenRate": 377.94, "avgConversionRate": 1}
-[Northrop Grumman Corp] {"instrumentId": 1545, "assetCurrency": "USD", "totalMarginAccountCurrency": 3299.87, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3299.87, "pnlAssetCurrency": -53.37, "accountCurrencyRoePercent": -1.61, "netContracts": 6.301678, "netUnits": 6.301678, "netCurrentExposureAssetCurrency": 3246.5, "netCurrentExposureAccountCurrency": 3246.5, "netInitialExposureAccountCurrency": 3299.88, "accountCurrencyReturn": -53.37, "liquidationValueAccountCurrency": 3246.5, "liquidationValueAssetCurrency": 3246.5, "avgLeverage": 1, "avgOpenRate": 523.65, "netAvgOpenRate": 523.65, "avgConversionRate": 1}
+[Gold (Non Expiry)] {"instrumentId": 18, "assetCurrency": "USD", "totalMarginAccountCurrency": 9699.68, "totalFees": 0, "totalFeesAcctCcy": 0, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 9699.68, "pnlAssetCurrency": -490.19, "accountCurrencyRoePercent": -5.05, "netContracts": 2.208409, "netUnits": 2.208409, "netCurrentExposureAssetCurrency": 9209.51, "netCurrentExposureAccountCurrency": 9209.51, "netInitialExposureAccountCurrency": 9699.71, "accountCurrencyReturn": -490.19, "liquidationValueAccountCurrency": 9209.49, "liquidationValueAssetCurrency": 9209.49, "avgLeverage": 1, "avgOpenRate": 4392.1695469997, "netAvgOpenRate": 4392.1695469997, "avgConversionRate": 1}
+[Apple] {"instrumentId": 1001, "assetCurrency": "USD", "totalMarginAccountCurrency": 8363.39, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8363.39, "pnlAssetCurrency": 2108.03, "accountCurrencyRoePercent": 25.21, "netContracts": 30.470305, "netUnits": 30.470305, "netCurrentExposureAssetCurrency": 10471.43, "netCurrentExposureAccountCurrency": 10471.43, "netInitialExposureAccountCurrency": 8363.4, "accountCurrencyReturn": 2108.03, "liquidationValueAccountCurrency": 10471.42, "liquidationValueAssetCurrency": 10471.42, "avgLeverage": 1, "avgOpenRate": 274.4769272182, "netAvgOpenRate": 274.4769272182, "avgConversionRate": 1}
+[Alphabet] {"instrumentId": 1002, "assetCurrency": "USD", "totalMarginAccountCurrency": 6497.57, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 6497.57, "pnlAssetCurrency": 458.27, "accountCurrencyRoePercent": 7.06, "netContracts": 20.672379, "netUnits": 20.672379, "netCurrentExposureAssetCurrency": 6955.85, "netCurrentExposureAccountCurrency": 6955.85, "netInitialExposureAccountCurrency": 6497.58, "accountCurrencyReturn": 458.27, "liquidationValueAccountCurrency": 6955.84, "liquidationValueAssetCurrency": 6955.84, "avgLeverage": 1, "avgOpenRate": 314.3119029697, "netAvgOpenRate": 314.3119029697, "avgConversionRate": 1}
+[Microsoft] {"instrumentId": 1004, "assetCurrency": "USD", "totalMarginAccountCurrency": 8470.04, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8470.04, "pnlAssetCurrency": 2573.97, "accountCurrencyRoePercent": 30.39, "netContracts": 20.870428, "netUnits": 20.870428, "netCurrentExposureAssetCurrency": 11044.01, "netCurrentExposureAccountCurrency": 11044.01, "netInitialExposureAccountCurrency": 8470.04, "accountCurrencyReturn": 2573.97, "liquidationValueAccountCurrency": 11044.01, "liquidationValueAssetCurrency": 11044.01, "avgLeverage": 1, "avgOpenRate": 405.8390727694, "netAvgOpenRate": 405.8390727694, "avgConversionRate": 1}
+[UnitedHealth] {"instrumentId": 1032, "assetCurrency": "USD", "totalMarginAccountCurrency": 7499.45, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 7499.45, "pnlAssetCurrency": 63.02, "accountCurrencyRoePercent": 0.85, "netContracts": 18.813044, "netUnits": 18.813044, "netCurrentExposureAssetCurrency": 7562.47, "netCurrentExposureAccountCurrency": 7562.47, "netInitialExposureAccountCurrency": 7499.45, "accountCurrencyReturn": 63.02, "liquidationValueAccountCurrency": 7562.47, "liquidationValueAssetCurrency": 7562.47, "avgLeverage": 1, "avgOpenRate": 398.6302788151, "netAvgOpenRate": 398.6302788151, "avgConversionRate": 1}
+[Raytheon-Technologies] {"instrumentId": 1033, "assetCurrency": "USD", "totalMarginAccountCurrency": 3296.75, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3296.75, "pnlAssetCurrency": -143.52, "accountCurrencyRoePercent": -4.35, "netContracts": 16.272189, "netUnits": 16.272189, "netCurrentExposureAssetCurrency": 3153.23, "netCurrentExposureAccountCurrency": 3153.23, "netInitialExposureAccountCurrency": 3296.75, "accountCurrencyReturn": -143.52, "liquidationValueAccountCurrency": 3153.23, "liquidationValueAssetCurrency": 3153.23, "avgLeverage": 1, "avgOpenRate": 202.6, "netAvgOpenRate": 202.6, "avgConversionRate": 1}
+[NVIDIA Corporation] {"instrumentId": 1137, "assetCurrency": "USD", "totalMarginAccountCurrency": 2499.88, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 2499.88, "pnlAssetCurrency": -23.24, "accountCurrencyRoePercent": -0.92, "netContracts": 11.507479, "netUnits": 11.507479, "netCurrentExposureAssetCurrency": 2476.64, "netCurrentExposureAccountCurrency": 2476.64, "netInitialExposureAccountCurrency": 2499.89, "accountCurrencyReturn": -23.24, "liquidationValueAccountCurrency": 2476.64, "liquidationValueAssetCurrency": 2476.64, "avgLeverage": 1, "avgOpenRate": 217.24, "netAvgOpenRate": 217.24, "avgConversionRate": 1}
+[Valero Energy Corp] {"instrumentId": 1497, "assetCurrency": "USD", "totalMarginAccountCurrency": 3199.75, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3199.75, "pnlAssetCurrency": 563.86, "accountCurrencyRoePercent": 17.63, "netContracts": 8.46628, "netUnits": 8.46628, "netCurrentExposureAssetCurrency": 3763.61, "netCurrentExposureAccountCurrency": 3763.61, "netInitialExposureAccountCurrency": 3199.75, "accountCurrencyReturn": 563.86, "liquidationValueAccountCurrency": 3763.61, "liquidationValueAssetCurrency": 3763.61, "avgLeverage": 1, "avgOpenRate": 377.94, "netAvgOpenRate": 377.94, "avgConversionRate": 1}
+[Northrop Grumman Corp] {"instrumentId": 1545, "assetCurrency": "USD", "totalMarginAccountCurrency": 3299.87, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3299.87, "pnlAssetCurrency": -44.99, "accountCurrencyRoePercent": -1.36, "netContracts": 6.301678, "netUnits": 6.301678, "netCurrentExposureAssetCurrency": 3254.88, "netCurrentExposureAccountCurrency": 3254.88, "netInitialExposureAccountCurrency": 3299.88, "accountCurrencyReturn": -44.99, "liquidationValueAccountCurrency": 3254.88, "liquidationValueAssetCurrency": 3254.88, "avgLeverage": 1, "avgOpenRate": 523.65, "netAvgOpenRate": 523.65, "avgConversionRate": 1}
 [Samsung Electronics Co Ltd - GDR] {"instrumentId": 2175, "assetCurrency": "USD", "totalMarginAccountCurrency": 5996.16, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 5996.16, "pnlAssetCurrency": -41.94, "accountCurrencyRoePercent": -0.69, "netContracts": 1.486323, "netUnits": 1.486323, "netCurrentExposureAssetCurrency": 5954.21, "netCurrentExposureAccountCurrency": 5954.21, "netInitialExposureAccountCurrency": 5996.16, "accountCurrencyReturn": -41.94, "liquidationValueAccountCurrency": 5954.22, "liquidationValueAssetCurrency": 5954.22, "avgLeverage": 1, "avgOpenRate": 4034.2221556149, "netAvgOpenRate": 4034.2221556149, "avgConversionRate": 1}
 [Xtrackers Artificial Intelligence &Big Data UCITS ETF 1C (EUR)] {"instrumentId": 3302, "assetCurrency": "EUR", "totalMarginAccountCurrency": 4496.06, "totalFees": 1.72, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3854.08, "pnlAssetCurrency": 541.4, "accountCurrencyRoePercent": 9.96, "netContracts": 20.821741, "netUnits": 20.821741, "netCurrentExposureAssetCurrency": 4395.47, "netCurrentExposureAccountCurrency": 4943.85, "netInitialExposureAccountCurrency": 4496.06, "accountCurrencyReturn": 447.79, "liquidationValueAccountCurrency": 4943.85, "liquidationValueAssetCurrency": 4395.47, "avgLeverage": 1, "avgOpenRate": 185.0987694257, "netAvgOpenRate": 185.0987694257, "avgConversionRate": 1.1665718694}
-[Cheniere Energy Inc] {"instrumentId": 4102, "assetCurrency": "USD", "totalMarginAccountCurrency": 4999.46, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 4999.46, "pnlAssetCurrency": 216.79, "accountCurrencyRoePercent": 4.34, "netContracts": 18.095617, "netUnits": 18.095617, "netCurrentExposureAssetCurrency": 5216.25, "netCurrentExposureAccountCurrency": 5216.25, "netInitialExposureAccountCurrency": 4999.46, "accountCurrencyReturn": 216.79, "liquidationValueAccountCurrency": 5216.25, "liquidationValueAssetCurrency": 5216.25, "avgLeverage": 1, "avgOpenRate": 276.28, "netAvgOpenRate": 276.28, "avgConversionRate": 1}
-[Eaton Corp PLC] {"instrumentId": 4273, "assetCurrency": "USD", "totalMarginAccountCurrency": 7701.93, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 7701.93, "pnlAssetCurrency": -166.95, "accountCurrencyRoePercent": -2.16, "netContracts": 19.256756, "netUnits": 19.256756, "netCurrentExposureAssetCurrency": 7534.98, "netCurrentExposureAccountCurrency": 7534.98, "netInitialExposureAccountCurrency": 7701.94, "accountCurrencyReturn": -166.95, "liquidationValueAccountCurrency": 7534.98, "liquidationValueAssetCurrency": 7534.98, "avgLeverage": 1, "avgOpenRate": 399.96, "netAvgOpenRate": 399.96, "avgConversionRate": 1}
-[Taiwan Semiconductor Manufacturing Co Ltd - ADR] {"instrumentId": 4481, "assetCurrency": "USD", "totalMarginAccountCurrency": 4999.69, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 4999.69, "pnlAssetCurrency": -1.21, "accountCurrencyRoePercent": -0.02, "netContracts": 12.116046, "netUnits": 12.116046, "netCurrentExposureAssetCurrency": 4998.48, "netCurrentExposureAccountCurrency": 4998.48, "netInitialExposureAccountCurrency": 4999.7, "accountCurrencyReturn": -1.21, "liquidationValueAccountCurrency": 4998.48, "liquidationValueAssetCurrency": 4998.48, "avgLeverage": 1, "avgOpenRate": 412.6506262258, "netAvgOpenRate": 412.6506262258, "avgConversionRate": 1}
-[Cameco Corp] {"instrumentId": 6634, "assetCurrency": "USD", "totalMarginAccountCurrency": 5998.29, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 5998.29, "pnlAssetCurrency": -488.38, "accountCurrencyRoePercent": -8.14, "netContracts": 68.352698, "netUnits": 68.352698, "netCurrentExposureAssetCurrency": 5509.92, "netCurrentExposureAccountCurrency": 5509.92, "netInitialExposureAccountCurrency": 5998.3, "accountCurrencyReturn": -488.38, "liquidationValueAccountCurrency": 5509.91, "liquidationValueAssetCurrency": 5509.91, "avgLeverage": 1, "avgOpenRate": 87.755, "netAvgOpenRate": 87.755, "avgConversionRate": 1}
-[DHT Holdings Inc] {"instrumentId": 6669, "assetCurrency": "USD", "totalMarginAccountCurrency": 898.74, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 898.74, "pnlAssetCurrency": 95.29, "accountCurrencyRoePercent": 10.61, "netContracts": 41.977611, "netUnits": 41.977611, "netCurrentExposureAssetCurrency": 994.03, "netCurrentExposureAccountCurrency": 994.03, "netInitialExposureAccountCurrency": 898.75, "accountCurrencyReturn": 95.29, "liquidationValueAccountCurrency": 994.03, "liquidationValueAssetCurrency": 994.03, "avgLeverage": 1, "avgOpenRate": 21.41, "netAvgOpenRate": 21.41, "avgConversionRate": 1}
-[Equinor ASA-ADR] {"instrumentId": 6688, "assetCurrency": "USD", "totalMarginAccountCurrency": 8295.21, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8295.21, "pnlAssetCurrency": 834.46, "accountCurrencyRoePercent": 10.06, "netContracts": 195.454165, "netUnits": 195.454165, "netCurrentExposureAssetCurrency": 9129.67, "netCurrentExposureAccountCurrency": 9129.67, "netInitialExposureAccountCurrency": 8295.21, "accountCurrencyReturn": 834.46, "liquidationValueAccountCurrency": 9129.67, "liquidationValueAssetCurrency": 9129.67, "avgLeverage": 1, "avgOpenRate": 42.4406707214, "netAvgOpenRate": 42.4406707214, "avgConversionRate": 1}
-[Nordic American Tankers Ltd] {"instrumentId": 6791, "assetCurrency": "USD", "totalMarginAccountCurrency": 2984.98, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 2984.98, "pnlAssetCurrency": -90.11, "accountCurrencyRoePercent": -3.01, "netContracts": 375.469336, "netUnits": 375.469336, "netCurrentExposureAssetCurrency": 2894.87, "netCurrentExposureAccountCurrency": 2894.87, "netInitialExposureAccountCurrency": 2984.99, "accountCurrencyReturn": -90.11, "liquidationValueAccountCurrency": 2894.87, "liquidationValueAssetCurrency": 2894.87, "avgLeverage": 1, "avgOpenRate": 7.95, "netAvgOpenRate": 7.95, "avgConversionRate": 1}
-[Scorpio Tankers Inc] {"instrumentId": 6862, "assetCurrency": "USD", "totalMarginAccountCurrency": 2498.84, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 2498.84, "pnlAssetCurrency": -122.36, "accountCurrencyRoePercent": -4.89, "netContracts": 28.995592, "netUnits": 28.995592, "netCurrentExposureAssetCurrency": 2376.48, "netCurrentExposureAccountCurrency": 2376.48, "netInitialExposureAccountCurrency": 2498.85, "accountCurrencyReturn": -122.36, "liquidationValueAccountCurrency": 2376.48, "liquidationValueAssetCurrency": 2376.48, "avgLeverage": 1, "avgOpenRate": 86.18, "netAvgOpenRate": 86.18, "avgConversionRate": 1}
-[Constellation Energy Corp] {"instrumentId": 8601, "assetCurrency": "USD", "totalMarginAccountCurrency": 7499.23, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 7499.23, "pnlAssetCurrency": 379.96, "accountCurrencyRoePercent": 5.07, "netContracts": 29.05408, "netUnits": 29.05408, "netCurrentExposureAssetCurrency": 7879.18, "netCurrentExposureAccountCurrency": 7879.18, "netInitialExposureAccountCurrency": 7499.23, "accountCurrencyReturn": 379.96, "liquidationValueAccountCurrency": 7879.19, "liquidationValueAssetCurrency": 7879.19, "avgLeverage": 1, "avgOpenRate": 258.1126181208, "netAvgOpenRate": 258.1126181208, "avgConversionRate": 1}
-[TotalEnergies SE] {"instrumentId": 8684, "assetCurrency": "USD", "totalMarginAccountCurrency": 3998.42, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3998.42, "pnlAssetCurrency": 16.32, "accountCurrencyRoePercent": 0.41, "netContracts": 44.23945, "netUnits": 44.23945, "netCurrentExposureAssetCurrency": 4014.74, "netCurrentExposureAccountCurrency": 4014.74, "netInitialExposureAccountCurrency": 3998.42, "accountCurrencyReturn": 16.32, "liquidationValueAccountCurrency": 4014.74, "liquidationValueAssetCurrency": 4014.74, "avgLeverage": 1, "avgOpenRate": 90.3812521679, "netAvgOpenRate": 90.3812521679, "avgConversionRate": 1}
-[Vertiv Holdings Co] {"instrumentId": 8867, "assetCurrency": "USD", "totalMarginAccountCurrency": 8377.84, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8377.84, "pnlAssetCurrency": -947.65, "accountCurrencyRoePercent": -11.31, "netContracts": 35.859927, "netUnits": 35.859927, "netCurrentExposureAssetCurrency": 7430.18, "netCurrentExposureAccountCurrency": 7430.18, "netInitialExposureAccountCurrency": 8377.84, "accountCurrencyReturn": -947.65, "liquidationValueAccountCurrency": 7430.19, "liquidationValueAssetCurrency": 7430.19, "avgLeverage": 1, "avgOpenRate": 233.6266996863, "netAvgOpenRate": 233.6266996863, "avgConversionRate": 1}
-[Fabrinet] {"instrumentId": 9459, "assetCurrency": "USD", "totalMarginAccountCurrency": 3499.91, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3499.91, "pnlAssetCurrency": -273.86, "accountCurrencyRoePercent": -7.82, "netContracts": 8.851571, "netUnits": 8.851571, "netCurrentExposureAssetCurrency": 3226.05, "netCurrentExposureAccountCurrency": 3226.05, "netInitialExposureAccountCurrency": 3499.92, "accountCurrencyReturn": -273.86, "liquidationValueAccountCurrency": 3226.05, "liquidationValueAssetCurrency": 3226.05, "avgLeverage": 1, "avgOpenRate": 395.4, "netAvgOpenRate": 395.4, "avgConversionRate": 1}
-[Applied Optoelectronics Inc] {"instrumentId": 9462, "assetCurrency": "USD", "totalMarginAccountCurrency": 11982.64, "totalFees": 4, "totalFeesAcctCcy": 4, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 11982.64, "pnlAssetCurrency": -2390.44, "accountCurrencyRoePercent": -19.94, "netContracts": 125.486624, "netUnits": 125.486624, "netCurrentExposureAssetCurrency": 9592.2, "netCurrentExposureAccountCurrency": 9592.2, "netInitialExposureAccountCurrency": 11982.65, "accountCurrencyReturn": -2390.44, "liquidationValueAccountCurrency": 9592.2, "liquidationValueAssetCurrency": 9592.2, "avgLeverage": 1, "avgOpenRate": 95.4894102683, "netAvgOpenRate": 95.4894102683, "avgConversionRate": 1}
-[SK hynix Inc ADR] {"instrumentId": 15239, "assetCurrency": "USD", "totalMarginAccountCurrency": 1499.67, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 1499.67, "pnlAssetCurrency": 3.39, "accountCurrencyRoePercent": 0.23, "netContracts": 10.928961, "netUnits": 10.928961, "netCurrentExposureAssetCurrency": 1503.07, "netCurrentExposureAccountCurrency": 1503.07, "netInitialExposureAccountCurrency": 1499.68, "accountCurrencyReturn": 3.39, "liquidationValueAccountCurrency": 1503.06, "liquidationValueAssetCurrency": 1503.06, "avgLeverage": 1, "avgOpenRate": 137.22, "netAvgOpenRate": 137.22, "avgConversionRate": 1}
+[Cheniere Energy Inc] {"instrumentId": 4102, "assetCurrency": "USD", "totalMarginAccountCurrency": 4999.46, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 4999.46, "pnlAssetCurrency": 235.97, "accountCurrencyRoePercent": 4.72, "netContracts": 18.095617, "netUnits": 18.095617, "netCurrentExposureAssetCurrency": 5235.43, "netCurrentExposureAccountCurrency": 5235.43, "netInitialExposureAccountCurrency": 4999.46, "accountCurrencyReturn": 235.97, "liquidationValueAccountCurrency": 5235.43, "liquidationValueAssetCurrency": 5235.43, "avgLeverage": 1, "avgOpenRate": 276.28, "netAvgOpenRate": 276.28, "avgConversionRate": 1}
+[Eaton Corp PLC] {"instrumentId": 4273, "assetCurrency": "USD", "totalMarginAccountCurrency": 7701.93, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 7701.93, "pnlAssetCurrency": -188.33, "accountCurrencyRoePercent": -2.44, "netContracts": 19.256756, "netUnits": 19.256756, "netCurrentExposureAssetCurrency": 7513.61, "netCurrentExposureAccountCurrency": 7513.61, "netInitialExposureAccountCurrency": 7701.94, "accountCurrencyReturn": -188.33, "liquidationValueAccountCurrency": 7513.6, "liquidationValueAssetCurrency": 7513.6, "avgLeverage": 1, "avgOpenRate": 399.96, "netAvgOpenRate": 399.96, "avgConversionRate": 1}
+[Taiwan Semiconductor Manufacturing Co Ltd - ADR] {"instrumentId": 4481, "assetCurrency": "USD", "totalMarginAccountCurrency": 4999.69, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 4999.69, "pnlAssetCurrency": 5.33, "accountCurrencyRoePercent": 0.11, "netContracts": 12.116046, "netUnits": 12.116046, "netCurrentExposureAssetCurrency": 5005.02, "netCurrentExposureAccountCurrency": 5005.02, "netInitialExposureAccountCurrency": 4999.7, "accountCurrencyReturn": 5.33, "liquidationValueAccountCurrency": 5005.02, "liquidationValueAssetCurrency": 5005.02, "avgLeverage": 1, "avgOpenRate": 412.6506262258, "netAvgOpenRate": 412.6506262258, "avgConversionRate": 1}
+[Cameco Corp] {"instrumentId": 6634, "assetCurrency": "USD", "totalMarginAccountCurrency": 5998.29, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 5998.29, "pnlAssetCurrency": -454.2, "accountCurrencyRoePercent": -7.57, "netContracts": 68.352698, "netUnits": 68.352698, "netCurrentExposureAssetCurrency": 5544.09, "netCurrentExposureAccountCurrency": 5544.09, "netInitialExposureAccountCurrency": 5998.3, "accountCurrencyReturn": -454.2, "liquidationValueAccountCurrency": 5544.09, "liquidationValueAssetCurrency": 5544.09, "avgLeverage": 1, "avgOpenRate": 87.755, "netAvgOpenRate": 87.755, "avgConversionRate": 1}
+[DHT Holdings Inc] {"instrumentId": 6669, "assetCurrency": "USD", "totalMarginAccountCurrency": 898.74, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 898.74, "pnlAssetCurrency": 89.84, "accountCurrencyRoePercent": 10, "netContracts": 41.977611, "netUnits": 41.977611, "netCurrentExposureAssetCurrency": 988.58, "netCurrentExposureAccountCurrency": 988.58, "netInitialExposureAccountCurrency": 898.75, "accountCurrencyReturn": 89.84, "liquidationValueAccountCurrency": 988.58, "liquidationValueAssetCurrency": 988.58, "avgLeverage": 1, "avgOpenRate": 21.41, "netAvgOpenRate": 21.41, "avgConversionRate": 1}
+[Equinor ASA-ADR] {"instrumentId": 6688, "assetCurrency": "USD", "totalMarginAccountCurrency": 8295.21, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8295.21, "pnlAssetCurrency": 887.24, "accountCurrencyRoePercent": 10.7, "netContracts": 195.454165, "netUnits": 195.454165, "netCurrentExposureAssetCurrency": 9182.44, "netCurrentExposureAccountCurrency": 9182.44, "netInitialExposureAccountCurrency": 8295.21, "accountCurrencyReturn": 887.24, "liquidationValueAccountCurrency": 9182.45, "liquidationValueAssetCurrency": 9182.45, "avgLeverage": 1, "avgOpenRate": 42.4406707214, "netAvgOpenRate": 42.4406707214, "avgConversionRate": 1}
+[Nordic American Tankers Ltd] {"instrumentId": 6791, "assetCurrency": "USD", "totalMarginAccountCurrency": 2984.98, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 2984.98, "pnlAssetCurrency": -97.62, "accountCurrencyRoePercent": -3.27, "netContracts": 375.469336, "netUnits": 375.469336, "netCurrentExposureAssetCurrency": 2887.36, "netCurrentExposureAccountCurrency": 2887.36, "netInitialExposureAccountCurrency": 2984.99, "accountCurrencyReturn": -97.62, "liquidationValueAccountCurrency": 2887.36, "liquidationValueAssetCurrency": 2887.36, "avgLeverage": 1, "avgOpenRate": 7.95, "netAvgOpenRate": 7.95, "avgConversionRate": 1}
+[Scorpio Tankers Inc] {"instrumentId": 6862, "assetCurrency": "USD", "totalMarginAccountCurrency": 2498.84, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 2498.84, "pnlAssetCurrency": -131.92, "accountCurrencyRoePercent": -5.27, "netContracts": 28.995592, "netUnits": 28.995592, "netCurrentExposureAssetCurrency": 2366.92, "netCurrentExposureAccountCurrency": 2366.92, "netInitialExposureAccountCurrency": 2498.85, "accountCurrencyReturn": -131.92, "liquidationValueAccountCurrency": 2366.92, "liquidationValueAssetCurrency": 2366.92, "avgLeverage": 1, "avgOpenRate": 86.18, "netAvgOpenRate": 86.18, "avgConversionRate": 1}
+[Constellation Energy Corp] {"instrumentId": 8601, "assetCurrency": "USD", "totalMarginAccountCurrency": 7499.23, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 7499.23, "pnlAssetCurrency": 343.64, "accountCurrencyRoePercent": 4.59, "netContracts": 29.05408, "netUnits": 29.05408, "netCurrentExposureAssetCurrency": 7842.86, "netCurrentExposureAccountCurrency": 7842.86, "netInitialExposureAccountCurrency": 7499.23, "accountCurrencyReturn": 343.64, "liquidationValueAccountCurrency": 7842.87, "liquidationValueAssetCurrency": 7842.87, "avgLeverage": 1, "avgOpenRate": 258.1126181208, "netAvgOpenRate": 258.1126181208, "avgConversionRate": 1}
+[TotalEnergies SE] {"instrumentId": 8684, "assetCurrency": "USD", "totalMarginAccountCurrency": 3998.42, "totalFees": 2, "totalFeesAcctCcy": 2, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3998.42, "pnlAssetCurrency": 34.01, "accountCurrencyRoePercent": 0.86, "netContracts": 44.23945, "netUnits": 44.23945, "netCurrentExposureAssetCurrency": 4032.43, "netCurrentExposureAccountCurrency": 4032.43, "netInitialExposureAccountCurrency": 3998.42, "accountCurrencyReturn": 34.01, "liquidationValueAccountCurrency": 4032.43, "liquidationValueAssetCurrency": 4032.43, "avgLeverage": 1, "avgOpenRate": 90.3812521679, "netAvgOpenRate": 90.3812521679, "avgConversionRate": 1}
+[Vertiv Holdings Co] {"instrumentId": 8867, "assetCurrency": "USD", "totalMarginAccountCurrency": 8377.84, "totalFees": 3, "totalFeesAcctCcy": 3, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 8377.84, "pnlAssetCurrency": -922.19, "accountCurrencyRoePercent": -11, "netContracts": 35.859927, "netUnits": 35.859927, "netCurrentExposureAssetCurrency": 7455.64, "netCurrentExposureAccountCurrency": 7455.64, "netInitialExposureAccountCurrency": 8377.84, "accountCurrencyReturn": -922.19, "liquidationValueAccountCurrency": 7455.65, "liquidationValueAssetCurrency": 7455.65, "avgLeverage": 1, "avgOpenRate": 233.6266996863, "netAvgOpenRate": 233.6266996863, "avgConversionRate": 1}
+[Fabrinet] {"instrumentId": 9459, "assetCurrency": "USD", "totalMarginAccountCurrency": 3499.91, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 3499.91, "pnlAssetCurrency": -285.02, "accountCurrencyRoePercent": -8.14, "netContracts": 8.851571, "netUnits": 8.851571, "netCurrentExposureAssetCurrency": 3214.9, "netCurrentExposureAccountCurrency": 3214.9, "netInitialExposureAccountCurrency": 3499.92, "accountCurrencyReturn": -285.02, "liquidationValueAccountCurrency": 3214.89, "liquidationValueAssetCurrency": 3214.89, "avgLeverage": 1, "avgOpenRate": 395.4, "netAvgOpenRate": 395.4, "avgConversionRate": 1}
+[Applied Optoelectronics Inc] {"instrumentId": 9462, "assetCurrency": "USD", "totalMarginAccountCurrency": 11982.64, "totalFees": 4, "totalFeesAcctCcy": 4, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 11982.64, "pnlAssetCurrency": -2483.3, "accountCurrencyRoePercent": -20.72, "netContracts": 125.486624, "netUnits": 125.486624, "netCurrentExposureAssetCurrency": 9499.34, "netCurrentExposureAccountCurrency": 9499.34, "netInitialExposureAccountCurrency": 11982.65, "accountCurrencyReturn": -2483.3, "liquidationValueAccountCurrency": 9499.34, "liquidationValueAssetCurrency": 9499.34, "avgLeverage": 1, "avgOpenRate": 95.4894102683, "netAvgOpenRate": 95.4894102683, "avgConversionRate": 1}
+[SK hynix Inc ADR] {"instrumentId": 15239, "assetCurrency": "USD", "totalMarginAccountCurrency": 1499.67, "totalFees": 1, "totalFeesAcctCcy": 1, "totalTaxes": 0, "totalTaxesAcctCcy": 0.0, "totalMarginAssetCurrency": 1499.67, "pnlAssetCurrency": -8.19, "accountCurrencyRoePercent": -0.54, "netContracts": 10.928961, "netUnits": 10.928961, "netCurrentExposureAssetCurrency": 1491.48, "netCurrentExposureAccountCurrency": 1491.48, "netInitialExposureAccountCurrency": 1499.68, "accountCurrencyReturn": -8.19, "liquidationValueAccountCurrency": 1491.48, "liquidationValueAssetCurrency": 1491.48, "avgLeverage": 1, "avgOpenRate": 137.22, "netAvgOpenRate": 137.22, "avgConversionRate": 1}
 [Marvell Technology Group Ltd] {"instrumentId": 4358, "assetCurrency": "", "totalMarginAccountCurrency": 0, "totalFees": 0, "totalFeesAcctCcy": 0, "totalTaxes": 0, "totalTaxesAcctCcy": 0, "totalMarginAssetCurrency": 0, "pnlAssetCurrency": 0, "accountCurrencyRoePercent": 0, "netContracts": 0, "netUnits": 0, "netCurrentExposureAssetCurrency": 0, "netCurrentExposureAccountCurrency": 0, "netInitialExposureAccountCurrency": 0, "accountCurrencyReturn": 0, "liquidationValueAccountCurrency": 0, "liquidationValueAssetCurrency": 0, "avgLeverage": 0, "avgOpenRate": 0, "netAvgOpenRate": 0, "avgConversionRate": 0}
 
 --- TOTAUX DU COMPTE DEMO ---
 {
   "accountAvailableCash": 53655.91,
   "accountFrozenCash": 10500.0,
-  "accountCurrentPnl": 2365.51,
-  "accountTotalValue": 205074.87,
+  "accountCurrentPnl": 2496.32,
+  "accountTotalValue": 205205.68,
   "accountTotalUsedMargin": 149053.45,
   "accountBalance": 64155.91
 }
@@ -169,79 +169,79 @@ Aucun écart détecté — positions agrégées et brutes concordent.
 --- PALIERS DE SORTIE (lecture seule ; règles v7.3 du 07/10 — ventes programmées lues dans eToro) ---
 Seuil défensif : 10 ans US > 4,8 % = ALERTE SEULEMENT (décision du 07/10), sans action automatique.
 SYM | PRU | cours | gain% | poids% | régime | prochain palier @ prix | distance% | STATUT | lots (plus ancien) | ordres posés
-AAPL | 274.48 | 342.40 | 24.7 | 5.09 | VENTE PROGRAMMÉE (2/3 lot(s)) | — @ 372.66 | 8.8 | - | 3 (2026-01-22) | TP 372.66 (lot 22/01) ; TP 392.85 (lot 13/02)
-EQNR | 42.44 | 46.71 | 10.1 | 4.45 | P1 à prendre | +30% @ 55.17 | 18.1 | - | 3 (2026-09-08) | aucun
-MSFT | 405.84 | 525.90 | 29.6 | 5.35 | VENTE PROGRAMMÉE (2/3 lot(s)) | — @ 625.50 | 18.9 | - | 3 (2026-05-15) | TP 633.32 (lot 15/05) ; TP 625.50 (lot 20/05)
+AAPL | 274.48 | 343.66 | 25.2 | 5.10 | VENTE PROGRAMMÉE (2/3 lot(s)) | — @ 372.66 | 8.4 | - | 3 (2026-01-22) | TP 372.66 (lot 22/01) ; TP 392.85 (lot 13/02)
+EQNR | 42.44 | 46.98 | 10.7 | 4.47 | P1 à prendre | +30% @ 55.17 | 17.4 | - | 3 (2026-09-08) | aucun
+MSFT | 405.84 | 529.17 | 30.4 | 5.38 | VENTE PROGRAMMÉE (2/3 lot(s)) | — @ 625.50 | 18.2 | - | 3 (2026-05-15) | TP 633.32 (lot 15/05) ; TP 625.50 (lot 20/05)
 XAIX | 185.10 | 211.10 | 14.0 | 2.41 | VENTE PROGRAMMÉE (2/2 lot(s)) | — @ 251.16 | 19.0 | - | 2 (2026-05-04) | TP 272.49 (lot 04/05) ; TP 251.16 (lot 21/05)
-CEG | 258.11 | 271.19 | 5.1 | 3.84 | P1 à prendre | +30% @ 335.55 | 23.7 | - | 3 (2026-05-15) | aucun
-VLO | 377.94 | 446.64 | 18.2 | 1.84 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 566.91 | 26.9 | - | 1 (2026-09-08) | TP 566.91 (lot 08/09)
-UNH | 398.63 | 401.10 | 0.6 | 3.68 | P1 à prendre | +30% @ 518.22 | 29.2 | - | 2 (2026-08-13) | aucun
-ETN | 399.96 | 391.29 | -2.2 | 3.67 | P1 à prendre | +30% @ 519.95 | 32.9 | - | 1 (2026-05-15) | aucun
-GOOG | 314.31 | 336.30 | 7.0 | 3.39 | VENTE PROGRAMMÉE (1/2 lot(s)) | — @ 449.40 | 33.6 | - | 2 (2026-03-23) | TP 449.40 (lot 23/03)
-DHT | 21.41 | 23.68 | 10.6 | 0.48 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 32.12 | 35.6 | - | 1 (2026-09-11) | TP 32.12 (lot 11/09)
-CCJ | 87.75 | 80.61 | -8.1 | 2.69 | P1 à prendre | +30% @ 114.08 | 41.5 | - | 2 (2026-10-05) | aucun
-LNG | 276.28 | 288.26 | 4.3 | 2.54 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 414.42 | 43.8 | - | 1 (2026-09-14) | TP 414.42 (lot 14/09)
-VRT | 233.63 | 207.20 | -11.3 | 3.62 | P1 à prendre | +30% @ 303.71 | 46.6 | - | 3 (2026-09-14) | aucun
-TTE | 90.38 | 90.75 | 0.4 | 1.96 | VENTE PROGRAMMÉE (1/2 lot(s)) | — @ 134.78 | 48.5 | - | 2 (2026-09-08) | TP 134.78 (lot 08/09)
-NVDA | 217.24 | 213.90 | -1.5 | 1.20 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 325.86 | 52.3 | - | 1 (2026-05-26) | TP 325.86 (lot 26/05)
-NOC | 523.65 | 515.18 | -1.6 | 1.58 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 785.47 | 52.5 | - | 1 (2026-09-08) | TP 785.47 (lot 08/09)
-NAT | 7.95 | 7.71 | -3.0 | 1.41 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 11.93 | 54.7 | - | 1 (2026-09-16) | TP 11.93 (lot 16/09)
-TSM | 412.65 | 412.55 | -0.0 | 2.44 | VENTE PROGRAMMÉE (1/2 lot(s)) | — @ 646.41 | 56.7 | - | 2 (2026-06-08) | TP 646.41 (lot 08/06)
-RTX | 202.60 | 192.81 | -4.8 | 1.53 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 303.90 | 57.6 | - | 1 (2026-09-08) | TP 303.90 (lot 08/09)
-STNG | 86.18 | 81.96 | -4.9 | 1.16 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 129.27 | 57.7 | - | 1 (2026-09-14) | TP 129.27 (lot 14/09)
-AAOI | 95.49 | 76.44 | -19.9 | 4.68 | VENTE PROGRAMMÉE (2/4 lot(s)) | — @ 151.80 | 98.6 | - | 4 (2026-09-14) | TP 151.80 (lot 14/09) ; TP 228.83 (lot 15/09) ; lot 15/09 tranche 3 (SANS STOP)
-GOLD | 4392.17 | 4160.09 | -5.3 | 4.48 | HORS PALIERS | — @ — | — | - | 3 (2026-06-07) | aucun
+CEG | 258.11 | 269.94 | 4.6 | 3.82 | P1 à prendre | +30% @ 335.55 | 24.3 | - | 3 (2026-05-15) | aucun
+VLO | 377.94 | 444.54 | 17.6 | 1.83 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 566.91 | 27.5 | - | 1 (2026-09-08) | TP 566.91 (lot 08/09)
+UNH | 398.63 | 401.98 | 0.8 | 3.69 | P1 à prendre | +30% @ 518.22 | 28.9 | - | 2 (2026-08-13) | aucun
+ETN | 399.96 | 390.18 | -2.4 | 3.66 | P1 à prendre | +30% @ 519.95 | 33.3 | - | 1 (2026-05-15) | aucun
+GOOG | 314.31 | 336.48 | 7.1 | 3.39 | VENTE PROGRAMMÉE (1/2 lot(s)) | — @ 449.40 | 33.6 | - | 2 (2026-03-23) | TP 449.40 (lot 23/03)
+DHT | 21.41 | 23.55 | 10.0 | 0.48 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 32.12 | 36.4 | - | 1 (2026-09-11) | TP 32.12 (lot 11/09)
+CCJ | 87.75 | 81.11 | -7.6 | 2.70 | P1 à prendre | +30% @ 114.08 | 40.7 | - | 2 (2026-10-05) | aucun
+LNG | 276.28 | 289.32 | 4.7 | 2.55 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 414.42 | 43.2 | - | 1 (2026-09-14) | TP 414.42 (lot 14/09)
+VRT | 233.63 | 207.91 | -11.0 | 3.63 | P1 à prendre | +30% @ 303.71 | 46.1 | - | 3 (2026-09-14) | aucun
+TTE | 90.38 | 91.15 | 0.9 | 1.97 | VENTE PROGRAMMÉE (1/2 lot(s)) | — @ 134.78 | 47.9 | - | 2 (2026-09-08) | TP 134.78 (lot 08/09)
+NVDA | 217.24 | 215.22 | -0.9 | 1.21 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 325.86 | 51.4 | - | 1 (2026-05-26) | TP 325.86 (lot 26/05)
+NOC | 523.65 | 516.51 | -1.4 | 1.59 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 785.47 | 52.1 | - | 1 (2026-09-08) | TP 785.47 (lot 08/09)
+NAT | 7.95 | 7.69 | -3.3 | 1.41 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 11.93 | 55.1 | - | 1 (2026-09-16) | TP 11.93 (lot 16/09)
+TSM | 412.65 | 413.09 | 0.1 | 2.44 | VENTE PROGRAMMÉE (1/2 lot(s)) | — @ 646.41 | 56.5 | - | 2 (2026-06-08) | TP 646.41 (lot 08/06)
+RTX | 202.60 | 193.78 | -4.4 | 1.54 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 303.90 | 56.8 | - | 1 (2026-09-08) | TP 303.90 (lot 08/09)
+STNG | 86.18 | 81.63 | -5.3 | 1.15 | VENTE PROGRAMMÉE (1/1 lot(s)) | — @ 129.27 | 58.4 | - | 1 (2026-09-14) | TP 129.27 (lot 14/09)
+AAOI | 95.49 | 75.70 | -20.7 | 4.63 | VENTE PROGRAMMÉE (1/4 lot(s)) | — @ 151.80 | 100.5 | - | 4 (2026-09-14) | TP 151.80 (lot 14/09) ; lot 15/09 tranche 3 (SANS STOP)
+GOLD | 4392.17 | 4170.20 | -5.1 | 4.49 | HORS PALIERS | — @ — | — | - | 3 (2026-06-07) | aucun
 SMSN.L | 4034.22 | 4006.00 | -0.7 | 2.90 | HORS PALIERS | — @ — | — | - | 2 (2026-07-30) | aucun
-FN | 395.40 | 364.46 | -7.8 | 1.57 | À DÉCIDER (analyse du potentiel) | — @ — | — | - | 1 (2026-09-14) | TP 730.60 (lot 14/09)
-SKHY | 137.22 | 137.53 | 0.2 | 0.73 | À DÉCIDER (analyse du potentiel) | — @ — | — | - | 1 (2026-07-30) | aucun
+FN | 395.40 | 363.20 | -8.1 | 1.57 | À DÉCIDER (analyse du potentiel) | — @ — | — | - | 1 (2026-09-14) | TP 730.60 (lot 14/09)
+SKHY | 137.22 | 136.47 | -0.5 | 0.73 | À DÉCIDER (analyse du potentiel) | — @ — | — | - | 1 (2026-07-30) | aucun
 Lignes sous la taille minimale de 1,5 % du mandat : DHT, NVDA, NAT, STNG, SKHY
 
 --- ANALYSE TECHNIQUE (250 séances : lignes détenues + candidats) ---
 Groupes : D = détenu, C = candidat suivi, H = détenu au cours des 12 derniers mois
 SYM | groupe | verdict auto | cours | vs haut% | 20j% | RSI | >MM20 | >MM50 | >MM200 | MM20 | MM50 | MM200 | pente MM20% | creux↑ | vol5/50
-AAPL | D | REPRISE | 342.52 | -2.15 | 1.96 | 61.26 | oui | oui | oui | 337.22 | 325.54 | 292.39 | 0.58 | oui | 1.05
-DHT | D | REPRISE | 23.58 | -12.28 | 1.38 | 52.83 | oui | oui | oui | 23.4 | 21.48 | 17.99 | 2.48 | oui | 1.63
-EQNR | D | REPRISE | 46.72 | -0.06 | 5.97 | 66.86 | oui | oui | oui | 43.06 | 42.8 | 36.05 | 0.35 | oui | 1.27
-LNG | D | REPRISE | 288.2 | -4.31 | 7.75 | 61.63 | oui | oui | oui | 275.37 | 275.96 | 249.53 | 1.22 | oui | 0.71
-MSFT | D | REPRISE | 525.87 | -5.45 | 6.57 | 55.86 | oui | oui | oui | 519.83 | 505.21 | 433.72 | 1.93 | oui | 1.0
-UNH | D | REPRISE | 402.21 | -12.55 | 6.68 | 63.85 | oui | oui | oui | 378.05 | 386.88 | 359.17 | 0.98 | oui | 1.81
-VLO | D | REPRISE | 444.27 | -4.04 | 7.71 | 66.6 | oui | oui | oui | 413.25 | 380.81 | 273.34 | 2.86 | oui | 0.78
-TTE | D | HAUSSIER EN CONSOLIDATION | 90.93 | -3.41 | 0.22 | 60.15 | oui | oui | oui | 87.87 | 88.73 | 83.28 | -0.63 | oui | 1.57
-NAT | D | STABILISATION | 7.69 | -13.21 | -6.56 | 44.64 | non | oui | oui | 8.1 | 7.47 | 5.83 | 0.89 | oui | 1.41
-GOLD | D | REBOND FRAGILE | 4164.32 | -25.57 | -2.64 | 45.41 | oui | non | non | 4160.38 | 4283.38 | 4481.78 | -0.86 | non | None
-NOC | D | REBOND FRAGILE | 515.63 | -34.99 | -2.08 | 58.59 | oui | non | non | 493.73 | 524.79 | 591.75 | -1.67 | oui | 1.16
-RTX | D | REBOND FRAGILE | 192.85 | -14.97 | -0.25 | 55.18 | oui | non | non | 186.66 | 199.67 | 194.6 | -1.02 | non | 1.24
-SKHY | D | SURVENDU | 137.64 | -31.11 | -26.6 | 28.02 | non | non | — | 176.89 | 170.64 | None | -3.95 | non | 1.21
+AAPL | D | REPRISE | 343.66 | -1.82 | 2.3 | 62.39 | oui | oui | oui | 337.27 | 325.57 | 292.4 | 0.6 | oui | 1.07
+DHT | D | REPRISE | 23.58 | -12.28 | 1.38 | 52.83 | oui | oui | oui | 23.4 | 21.48 | 17.99 | 2.48 | oui | 1.67
+EQNR | D | REPRISE | 46.98 | -0.02 | 6.55 | 67.65 | oui | oui | oui | 43.07 | 42.81 | 36.05 | 0.38 | oui | 1.33
+LNG | D | REPRISE | 289.32 | -3.94 | 8.17 | 62.42 | oui | oui | oui | 275.43 | 275.98 | 249.53 | 1.24 | oui | 0.76
+MSFT | D | REPRISE | 529.17 | -4.86 | 7.24 | 58.12 | oui | oui | oui | 519.99 | 505.27 | 433.74 | 1.96 | oui | 1.03
+UNH | D | REPRISE | 401.73 | -12.66 | 6.55 | 63.43 | oui | oui | oui | 378.03 | 386.87 | 359.17 | 0.97 | oui | 1.84
+VLO | D | REPRISE | 444.89 | -3.91 | 7.86 | 66.78 | oui | oui | oui | 413.28 | 380.82 | 273.35 | 2.87 | oui | 0.79
+TTE | D | HAUSSIER EN CONSOLIDATION | 91.28 | -3.04 | 0.61 | 61.07 | oui | oui | oui | 87.89 | 88.74 | 83.28 | -0.61 | oui | 1.62
+NAT | D | STABILISATION | 7.66 | -13.54 | -6.93 | 44.13 | non | oui | oui | 8.1 | 7.47 | 5.83 | 0.87 | oui | 1.45
+GOLD | D | REBOND FRAGILE | 4166.82 | -25.52 | -2.58 | 45.68 | oui | non | non | 4160.5 | 4283.44 | 4481.8 | -0.86 | non | None
+NOC | D | REBOND FRAGILE | 519.96 | -34.44 | -1.26 | 60.5 | oui | non | non | 493.94 | 524.88 | 591.77 | -1.63 | oui | 1.22
+RTX | D | REBOND FRAGILE | 193.78 | -14.56 | 0.23 | 56.51 | oui | non | non | 186.71 | 199.68 | 194.61 | -0.99 | non | 1.31
+SKHY | D | SURVENDU | 136.47 | -31.69 | -27.22 | 27.62 | non | non | — | 176.83 | 170.62 | None | -3.98 | non | 1.25
 SMSN.L | D | SURVENDU | 4006.0 | -33.73 | -13.7 | 30.83 | non | non | non | 4807.35 | 4741.3 | 4089.08 | -1.83 | non | None
-VRT | D | SURVENDU | 207.51 | -45.35 | -16.54 | 27.4 | non | non | non | 242.36 | 255.22 | 264.4 | -1.71 | non | 1.48
-NVDA | D | CORRECTION (tendance longue haussière) | 214.61 | -11.8 | -3.4 | 37.85 | non | non | oui | 228.27 | 223.18 | 203.04 | 0.62 | oui | 0.88
-STNG | D | CORRECTION (tendance longue haussière) | 81.76 | -9.15 | -5.88 | 44.09 | non | non | oui | 84.52 | 81.96 | 74.51 | -0.26 | oui | 0.82
-TSM | D | CORRECTION (tendance longue haussière) | 413.12 | -15.25 | -4.65 | 33.86 | non | non | oui | 452.64 | 434.34 | 396.33 | 0.5 | non | 1.37
+VRT | D | SURVENDU | 205.96 | -45.76 | -17.17 | 26.9 | non | non | non | 242.28 | 255.19 | 264.4 | -1.74 | non | 1.52
+NVDA | D | CORRECTION (tendance longue haussière) | 214.19 | -11.97 | -3.59 | 37.51 | non | non | oui | 228.24 | 223.17 | 203.04 | 0.61 | oui | 0.9
+STNG | D | CORRECTION (tendance longue haussière) | 81.15 | -9.82 | -6.58 | 42.88 | non | non | oui | 84.49 | 81.94 | 74.51 | -0.3 | oui | 0.88
+TSM | D | CORRECTION (tendance longue haussière) | 413.09 | -15.25 | -4.66 | 33.85 | non | non | oui | 452.64 | 434.34 | 396.33 | 0.5 | non | 1.41
 XAIX | D | CORRECTION (tendance longue haussière) | 211.1 | -7.15 | -0.85 | 37.05 | non | non | oui | 221.22 | 212.5 | 185.29 | 0.9 | oui | 0.43
-AAOI | D | BAISSIER | 76.45 | -67.26 | -27.34 | 32.92 | non | non | non | 103.78 | 111.2 | 109.62 | -2.23 | non | 1.38
-CCJ | D | BAISSIER | 80.95 | -39.81 | -11.7 | 34.96 | non | non | non | 87.43 | 93.97 | 104.64 | -2.34 | non | 1.23
-CEG | D | BAISSIER | 270.34 | -33.27 | 6.14 | 46.52 | non | non | non | 273.59 | 275.45 | 283.03 | 2.11 | oui | 1.03
-ETN | D | BAISSIER | 391.48 | -17.77 | -7.84 | 34.91 | non | non | non | 428.42 | 423.06 | 394.08 | 0.41 | non | 1.47
-FN | D | BAISSIER | 365.53 | -50.97 | -5.76 | 34.31 | non | non | non | 431.69 | 441.74 | 526.04 | 1.28 | non | 1.29
-GOOG | D | BAISSIER | 336.48 | -16.79 | -2.33 | 43.79 | non | non | non | 343.15 | 341.47 | 339.33 | 0.14 | oui | 0.99
+AAOI | D | BAISSIER | 75.7 | -67.58 | -28.05 | 32.63 | non | non | non | 103.75 | 111.18 | 109.62 | -2.26 | non | 1.41
+CCJ | D | BAISSIER | 81.52 | -39.39 | -11.08 | 35.7 | non | non | non | 87.46 | 93.98 | 104.64 | -2.3 | non | 1.27
+CEG | D | BAISSIER | 271.28 | -33.03 | 6.51 | 47.0 | non | non | non | 273.63 | 275.47 | 283.04 | 2.13 | oui | 1.07
+ETN | D | BAISSIER | 390.18 | -18.04 | -8.15 | 34.48 | non | non | non | 428.35 | 423.04 | 394.07 | 0.39 | non | 1.51
+FN | D | BAISSIER | 363.2 | -51.28 | -6.36 | 33.96 | non | non | non | 431.57 | 441.69 | 526.03 | 1.26 | non | 1.34
+GOOG | D | BAISSIER | 337.1 | -16.63 | -2.15 | 44.29 | non | non | non | 343.18 | 341.49 | 339.34 | 0.15 | oui | 1.01
 0144.HK | C | REPRISE | 17.17 | -4.82 | 3.31 | 59.75 | oui | oui | oui | 17.01 | 16.31 | 15.5 | 1.29 | oui | 1.79
 1766.HK | C | REPRISE | 5.4 | -19.64 | 6.72 | 59.67 | oui | oui | oui | 5.27 | 5.23 | 5.33 | 1.1 | oui | 1.12
 1919.HK | C | REPRISE | 17.1 | -5.0 | 2.03 | 53.26 | oui | oui | oui | 16.87 | 16.7 | 15.05 | 1.47 | oui | 0.93
 2020.HK | C | REPRISE | 77.85 | -15.85 | 8.2 | 67.28 | oui | oui | oui | 72.7 | 73.56 | 77.02 | 0.5 | oui | 1.71
 3311.HK | C | REPRISE | 8.7 | -15.86 | 6.88 | 55.6 | oui | oui | oui | 8.58 | 8.38 | 8.66 | 1.68 | oui | 0.66
-MNSO | C | REPRISE | 10.22 | -55.63 | 18.98 | 61.09 | oui | oui | non | 9.31 | 9.93 | 14.21 | 3.72 | oui | 1.68
-PDD | C | REBOND FRAGILE | 80.95 | -42.08 | 2.62 | 53.25 | oui | non | non | 79.0 | 82.11 | 92.5 | 0.92 | oui | 0.95
+MNSO | C | REPRISE | 10.19 | -55.76 | 18.63 | 60.48 | oui | oui | non | 9.3 | 9.93 | 14.21 | 3.71 | oui | 1.78
+LI | C | REBOND FRAGILE | 11.35 | -54.15 | -6.43 | 47.4 | oui | non | non | 11.33 | 11.9 | 15.05 | -1.23 | oui | 0.97
+PDD | C | REBOND FRAGILE | 80.89 | -42.13 | 2.55 | 53.03 | oui | non | non | 79.0 | 82.11 | 92.5 | 0.91 | oui | 0.97
 0763.HK | C | SURVENDU | 19.42 | -58.1 | -13.07 | 24.42 | non | non | non | 21.5 | 22.88 | 25.06 | -3.09 | non | 1.06
 1157.HK | C | SURVENDU | 5.29 | -50.38 | -7.84 | 25.62 | non | non | non | 5.61 | 6.13 | 7.7 | -1.87 | non | 0.91
 3750.HK | C | SURVENDU | 439.4 | -44.66 | -13.16 | 23.47 | non | non | non | 484.35 | 552.65 | 592.87 | -2.74 | non | 1.56
-IONQ | C | SURVENDU | 31.41 | -57.33 | -19.73 | 31.39 | non | non | non | 40.64 | 40.82 | 42.95 | -2.7 | non | 1.55
-JKS | C | SURVENDU | 8.15 | -74.38 | -21.26 | 23.86 | non | non | non | 9.16 | 11.98 | 19.99 | -5.88 | non | 1.0
-OKLO | C | SURVENDU | 27.77 | -83.06 | -26.92 | 28.07 | non | non | non | 35.54 | 39.06 | 56.82 | -4.62 | non | 1.04
-SMR | C | SURVENDU | 5.82 | -89.8 | -29.54 | 28.67 | non | non | non | 7.56 | 8.64 | 11.55 | -7.1 | non | 0.87
-UEC | C | SURVENDU | 7.86 | -61.28 | -19.63 | 31.89 | non | non | non | 9.19 | 10.56 | 12.76 | -5.0 | non | 1.23
+IONQ | C | SURVENDU | 31.21 | -57.6 | -20.24 | 31.11 | non | non | non | 40.63 | 40.82 | 42.95 | -2.72 | non | 1.58
+JKS | C | SURVENDU | 8.11 | -74.51 | -21.64 | 23.58 | non | non | non | 9.16 | 11.98 | 19.99 | -5.9 | non | 1.04
+OKLO | C | SURVENDU | 27.94 | -82.95 | -26.47 | 28.33 | non | non | non | 35.55 | 39.07 | 56.82 | -4.6 | non | 1.07
+SMR | C | SURVENDU | 5.81 | -89.81 | -29.66 | 28.61 | non | non | non | 7.56 | 8.64 | 11.55 | -7.11 | non | 0.89
 0300.HK | C | CORRECTION (tendance longue haussière) | 93.6 | -7.87 | -5.6 | 45.31 | non | non | oui | 93.87 | 96.46 | 90.08 | -1.46 | non | 1.0
-ANET | C | CORRECTION (tendance longue haussière) | 178.15 | -19.89 | -10.77 | 32.97 | non | non | oui | 204.16 | 198.15 | 162.63 | -0.02 | non | 1.29
-LITE | C | CORRECTION (tendance longue haussière) | 830.57 | -27.21 | -10.85 | 37.85 | non | non | oui | 988.29 | 931.3 | 764.48 | 0.8 | non | 1.14
+ANET | C | CORRECTION (tendance longue haussière) | 176.77 | -20.51 | -11.46 | 32.33 | non | non | oui | 204.09 | 198.13 | 162.63 | -0.06 | non | 1.33
+LITE | C | CORRECTION (tendance longue haussière) | 823.28 | -27.85 | -11.63 | 37.38 | non | non | oui | 987.93 | 931.16 | 764.45 | 0.76 | non | 1.16
 0175.HK | C | BAISSIER | 15.0 | -40.81 | -6.02 | 40.87 | non | non | non | 15.26 | 16.65 | 18.37 | -1.61 | oui | 1.13
 1211.HK | C | BAISSIER | 73.8 | -34.86 | -9.0 | 36.26 | non | non | non | 76.14 | 82.75 | 91.96 | -2.05 | non | 1.07
 1810.HK | C | BAISSIER | 26.74 | -52.6 | 2.14 | 54.93 | oui | oui | non | 25.56 | 26.5 | 30.25 | -0.55 | non | 1.56
@@ -251,82 +251,82 @@ LITE | C | CORRECTION (tendance longue haussière) | 830.57 | -27.21 | -10.85 | 
 3808.HK | C | BAISSIER | 33.0 | -31.76 | -12.7 | 34.25 | non | non | non | 35.27 | 38.36 | 38.25 | -4.28 | non | 1.18
 6690.HK | C | BAISSIER | 20.08 | -28.69 | -2.33 | 44.82 | non | non | non | 20.09 | 20.71 | 22.36 | -0.6 | oui | 1.19
 9863.HK | C | BAISSIER | 35.16 | -49.04 | 0.57 | 46.81 | non | non | non | 35.32 | 37.18 | 41.74 | 0.08 | oui | 1.01
-BABA | C | BAISSIER | 109.08 | -40.08 | -3.6 | 46.39 | non | non | non | 109.86 | 114.62 | 128.19 | 0.22 | non | 0.77
-FXI | C | BAISSIER | 33.83 | -18.32 | -1.43 | 45.63 | non | non | non | 34.03 | 34.72 | 36.02 | -0.21 | oui | 0.98
-KWEB | C | BAISSIER | 24.39 | -43.25 | -1.81 | 44.47 | non | non | non | 24.59 | 25.5 | 28.72 | 0.06 | oui | 0.86
-LI | C | BAISSIER | 11.32 | -54.27 | -6.68 | 46.99 | non | non | non | 11.33 | 11.9 | 15.05 | -1.24 | oui | 0.94
-MCHI | C | BAISSIER | 51.16 | -23.22 | -3.64 | 39.07 | non | non | non | 52.28 | 53.62 | 56.4 | -0.55 | oui | 1.04
-MP | C | BAISSIER | 40.14 | -59.88 | -15.12 | 32.2 | non | non | non | 46.07 | 51.15 | 55.88 | -3.95 | non | 1.17
-NIO | C | BAISSIER | 3.4 | -54.78 | -7.1 | 40.53 | non | non | non | 3.51 | 3.9 | 4.98 | -1.16 | non | 0.9
-VKTX | C | BAISSIER | 25.13 | -41.64 | -13.29 | 35.78 | non | non | non | 30.9 | 32.16 | 32.89 | -2.58 | non | 1.09
-XPEV | C | BAISSIER | 9.23 | -67.26 | -13.01 | 35.67 | non | non | non | 9.74 | 10.67 | 15.13 | -2.38 | oui | 0.89
-CVX.US | H | REPRISE | 224.51 | -0.19 | 7.13 | 70.19 | oui | oui | oui | 209.32 | 206.87 | 189.87 | 0.86 | oui | 0.97
-EQT | H | REPRISE | 54.32 | -21.21 | 8.64 | 60.49 | oui | oui | non | 51.31 | 52.66 | 55.18 | 0.98 | oui | 0.81
+BABA | C | BAISSIER | 108.98 | -40.14 | -3.69 | 46.19 | non | non | non | 109.85 | 114.62 | 128.19 | 0.21 | non | 0.79
+FXI | C | BAISSIER | 33.85 | -18.27 | -1.37 | 45.84 | non | non | non | 34.03 | 34.72 | 36.02 | -0.21 | oui | 1.05
+KWEB | C | BAISSIER | 24.4 | -43.22 | -1.77 | 44.59 | non | non | non | 24.59 | 25.51 | 28.72 | 0.06 | oui | 0.9
+MCHI | C | BAISSIER | 51.2 | -23.16 | -3.56 | 39.31 | non | non | non | 52.29 | 53.62 | 56.4 | -0.54 | oui | 1.07
+MP | C | BAISSIER | 40.16 | -59.86 | -15.08 | 32.24 | non | non | non | 46.07 | 51.15 | 55.88 | -3.95 | non | 1.2
+NIO | C | BAISSIER | 3.41 | -54.65 | -6.83 | 40.88 | non | non | non | 3.51 | 3.9 | 4.98 | -1.14 | non | 0.93
+UEC | C | BAISSIER | 7.91 | -61.03 | -19.12 | 32.23 | non | non | non | 9.19 | 10.56 | 12.76 | -4.98 | non | 1.26
+VKTX | C | BAISSIER | 25.15 | -41.59 | -13.22 | 35.82 | non | non | non | 30.9 | 32.16 | 32.89 | -2.58 | non | 1.15
+XPEV | C | BAISSIER | 9.24 | -67.22 | -12.91 | 35.8 | non | non | non | 9.74 | 10.67 | 15.13 | -2.38 | oui | 0.92
+CVX.US | H | REPRISE | 225.0 | -0.13 | 7.36 | 70.58 | oui | oui | oui | 209.35 | 206.88 | 189.87 | 0.87 | oui | 1.04
+EQT | H | REPRISE | 54.25 | -21.31 | 8.5 | 60.24 | oui | oui | non | 51.31 | 52.66 | 55.18 | 0.97 | oui | 0.87
 EXA.PA | H | REPRISE | 125.7 | -20.74 | 0.96 | 60.41 | oui | oui | oui | 124.95 | 124.58 | 121.09 | 0.19 | oui | 1.33
-FRO | H | REPRISE | 52.65 | -11.82 | 2.39 | 52.63 | oui | oui | oui | 52.14 | 47.83 | 37.31 | 1.79 | oui | 1.4
-ISRG | H | REPRISE | 427.35 | -29.1 | 8.68 | 65.13 | oui | oui | non | 410.08 | 391.08 | 436.99 | 2.53 | oui | 0.84
-TLN | H | REPRISE | 353.6 | -21.29 | 21.0 | 56.34 | oui | oui | oui | 336.07 | 324.54 | 351.43 | 6.09 | oui | 1.11
-XOM | H | REPRISE | 178.38 | -0.23 | 9.38 | 71.33 | oui | oui | oui | 165.9 | 163.49 | 151.72 | 1.59 | oui | 0.89
+FRO | H | REPRISE | 52.45 | -12.16 | 2.0 | 52.1 | oui | oui | oui | 52.13 | 47.83 | 37.31 | 1.77 | oui | 1.43
+ISRG | H | REPRISE | 426.63 | -29.22 | 8.5 | 64.82 | oui | oui | non | 410.05 | 391.07 | 436.98 | 2.52 | oui | 0.85
+TLN | H | REPRISE | 354.66 | -21.06 | 21.36 | 56.71 | oui | oui | oui | 336.12 | 324.56 | 351.44 | 6.1 | oui | 1.14
+XOM | H | REPRISE | 178.98 | -0.07 | 9.74 | 71.9 | oui | oui | oui | 165.93 | 163.5 | 151.72 | 1.61 | oui | 0.93
 AIR.PA | H | HAUSSIER EN CONSOLIDATION | 199.44 | -9.72 | 3.22 | 62.37 | oui | oui | oui | 191.03 | 198.04 | 189.37 | -0.45 | non | 0.98
-CPK | H | HAUSSIER EN CONSOLIDATION | 132.36 | -5.39 | 1.01 | 60.42 | oui | oui | oui | 128.63 | 131.09 | 128.35 | 0.1 | non | 0.84
-PLTR | H | STABILISATION | 185.58 | -14.08 | 4.48 | 46.1 | non | oui | oui | 193.22 | 182.29 | 152.19 | 3.47 | oui | 0.86
+CPK | H | HAUSSIER EN CONSOLIDATION | 131.83 | -5.77 | 0.6 | 58.97 | oui | oui | oui | 128.6 | 131.08 | 128.34 | 0.08 | non | 0.89
+PLTR | H | STABILISATION | 186.05 | -13.86 | 4.74 | 46.5 | non | oui | oui | 193.25 | 182.3 | 152.19 | 3.49 | oui | 0.88
 9618.HK | H | REBOND FRAGILE | 106.0 | -24.49 | 0.86 | 49.43 | oui | non | non | 104.86 | 109.39 | 112.46 | 0.0 | oui | 1.08
 9866.HK | H | REBOND FRAGILE | 27.52 | -55.29 | -1.64 | 44.86 | oui | non | non | 27.51 | 30.63 | 39.07 | -1.39 | non | 0.85
-CELH | H | REBOND FRAGILE | 28.15 | -57.75 | 0.5 | 49.56 | oui | non | non | 27.88 | 29.26 | 35.81 | -0.16 | oui | 0.57
+CELH | H | REBOND FRAGILE | 28.19 | -57.69 | 0.64 | 49.81 | oui | non | non | 27.88 | 29.26 | 35.81 | -0.16 | oui | 0.59
 HO.PA | H | REBOND FRAGILE | 234.3 | -14.55 | -1.1 | 57.54 | oui | non | non | 226.41 | 238.61 | 242.36 | -1.21 | non | 0.9
-HON | H | REBOND FRAGILE | 211.53 | -57.39 | 2.48 | 51.25 | oui | non | non | 209.65 | 213.94 | 359.81 | 0.51 | oui | 0.84
-JPM | H | REBOND FRAGILE | 338.81 | -8.01 | -2.89 | 49.98 | oui | non | oui | 335.48 | 347.86 | 321.86 | -1.09 | non | 1.31
-XLF | H | REBOND FRAGILE | 55.31 | -5.6 | -1.0 | 52.71 | oui | non | oui | 54.42 | 56.26 | 53.75 | -0.61 | oui | 1.13
-CBRS | H | SURVENDU | 128.11 | -65.75 | -35.43 | 26.91 | non | non | — | 175.83 | 191.95 | None | -6.4 | non | 1.43
-INTC | H | SURVENDU | 89.97 | -37.63 | -17.09 | 31.6 | non | non | oui | 112.52 | 103.16 | 85.46 | -1.13 | non | 1.03
-REMX | H | SURVENDU | 54.1 | -51.47 | -21.23 | 17.08 | non | non | non | 62.61 | 70.21 | 84.23 | -4.66 | non | 1.71
-RGTI | H | SURVENDU | 11.96 | -75.4 | -24.16 | 30.4 | non | non | non | 14.82 | 15.78 | 17.75 | -4.69 | non | 1.17
-RR | H | SURVENDU | 1.29 | -79.78 | -22.75 | 30.99 | non | non | non | 1.6 | 1.67 | 2.35 | -3.39 | non | 1.06
-SOXX | H | SURVENDU | 496.65 | -24.26 | -6.81 | 31.41 | non | non | oui | 560.06 | 537.34 | 463.65 | 0.63 | non | 1.47
-AMD | H | CORRECTION (tendance longue haussière) | 532.96 | -19.06 | -4.73 | 38.75 | non | non | oui | 610.39 | 537.05 | 397.07 | 2.06 | oui | 1.05
-AMZN | H | CORRECTION (tendance longue haussière) | 249.76 | -12.99 | -1.6 | 44.64 | non | non | oui | 253.25 | 257.11 | 242.72 | 0.44 | oui | 0.91
-MRVL | H | CORRECTION (tendance longue haussière) | 229.65 | -32.37 | -5.93 | 38.35 | non | non | oui | 263.0 | 241.03 | 178.04 | 1.79 | oui | 0.99
+HON | H | REBOND FRAGILE | 211.43 | -57.41 | 2.43 | 51.06 | oui | non | non | 209.65 | 213.94 | 359.81 | 0.51 | oui | 0.85
+JPM | H | REBOND FRAGILE | 339.5 | -7.82 | -2.7 | 50.93 | oui | non | oui | 335.52 | 347.87 | 321.86 | -1.08 | non | 1.37
+XLF | H | REBOND FRAGILE | 55.51 | -5.26 | -0.64 | 54.64 | oui | non | oui | 54.43 | 56.27 | 53.75 | -0.59 | oui | 1.16
+CBRS | H | SURVENDU | 127.09 | -66.02 | -35.94 | 26.64 | non | non | — | 175.78 | 191.93 | None | -6.43 | non | 1.48
+INTC | H | SURVENDU | 89.97 | -37.63 | -17.09 | 31.6 | non | non | oui | 112.52 | 103.16 | 85.46 | -1.13 | non | 1.06
+REMX | H | SURVENDU | 54.18 | -51.39 | -21.11 | 17.17 | non | non | non | 62.61 | 70.21 | 84.23 | -4.65 | non | 1.77
+RGTI | H | SURVENDU | 11.8 | -75.73 | -25.17 | 29.73 | non | non | non | 14.81 | 15.78 | 17.75 | -4.75 | non | 1.2
+RR | H | SURVENDU | 1.28 | -79.94 | -23.35 | 30.63 | non | non | non | 1.6 | 1.67 | 2.35 | -3.42 | non | 1.09
+SOXX | H | SURVENDU | 493.38 | -24.76 | -7.42 | 30.7 | non | non | oui | 559.89 | 537.27 | 463.63 | 0.6 | non | 1.56
+AMD | H | CORRECTION (tendance longue haussière) | 528.95 | -19.67 | -5.45 | 38.06 | non | non | oui | 610.19 | 536.98 | 397.05 | 2.03 | oui | 1.07
+AMZN | H | CORRECTION (tendance longue haussière) | 250.09 | -12.88 | -1.47 | 44.96 | non | non | oui | 253.26 | 257.11 | 242.72 | 0.45 | oui | 0.93
+MRVL | H | CORRECTION (tendance longue haussière) | 228.01 | -32.86 | -6.6 | 37.79 | non | non | oui | 262.91 | 241.0 | 178.03 | 1.76 | oui | 1.01
 SOI.PA | H | CORRECTION (tendance longue haussière) | 128.85 | -35.46 | -8.42 | 38.94 | non | non | oui | 151.73 | 135.23 | 98.95 | 0.98 | oui | 1.2
-VG | H | CORRECTION (tendance longue haussière) | 12.37 | -29.76 | -11.83 | 39.13 | non | non | oui | 13.06 | 13.86 | 12.23 | -3.16 | non | 1.26
-VRTX | H | CORRECTION (tendance longue haussière) | 498.79 | -10.86 | -1.84 | 44.3 | non | non | oui | 507.11 | 520.5 | 473.6 | -0.73 | non | 1.39
-AVGO | H | BAISSIER | 330.95 | -34.79 | -7.47 | 35.45 | non | non | non | 355.61 | 365.6 | 368.29 | 0.02 | non | 0.95
-BEAM | H | BAISSIER | 23.37 | -38.84 | -6.3 | 40.56 | non | non | non | 24.68 | 26.25 | 28.28 | 0.26 | oui | 0.89
-COHR | H | BAISSIER | 234.39 | -46.6 | -26.14 | 33.22 | non | non | non | 299.23 | 299.67 | 291.09 | -1.87 | non | 1.08
-CRDO | H | BAISSIER | 170.54 | -44.63 | -3.05 | 37.42 | non | non | non | 199.63 | 205.76 | 181.1 | 3.06 | oui | 1.32
-CRSP | H | BAISSIER | 49.58 | -36.7 | -12.29 | 39.9 | non | non | non | 53.97 | 54.93 | 53.18 | -1.63 | non | 0.87
-GEV | H | BAISSIER | 925.99 | -22.54 | -1.4 | 41.74 | non | non | non | 969.12 | 962.85 | 938.2 | 1.21 | oui | 1.2
-KLIC | H | BAISSIER | 79.32 | -41.54 | -4.58 | 34.47 | non | non | non | 90.89 | 87.61 | 84.01 | 1.16 | non | 0.93
-LMT | H | BAISSIER | 549.68 | -28.25 | 2.95 | 64.14 | oui | oui | non | 516.53 | 542.9 | 563.95 | -0.43 | non | 1.14
-NXE | H | BAISSIER | 8.36 | -39.98 | -10.59 | 38.1 | non | non | non | 8.99 | 9.8 | 10.79 | -2.73 | non | 1.25
+VG | H | CORRECTION (tendance longue haussière) | 12.7 | -27.88 | -9.48 | 42.56 | non | non | oui | 13.07 | 13.87 | 12.23 | -3.03 | non | 1.33
+VRTX | H | CORRECTION (tendance longue haussière) | 499.46 | -10.74 | -1.71 | 44.64 | non | non | oui | 507.14 | 520.51 | 473.6 | -0.72 | non | 1.41
+AVGO | H | BAISSIER | 329.14 | -35.14 | -7.97 | 34.79 | non | non | non | 355.52 | 365.56 | 368.28 | -0.0 | non | 0.98
+BEAM | H | BAISSIER | 23.47 | -38.58 | -5.89 | 40.98 | non | non | non | 24.69 | 26.25 | 28.28 | 0.28 | oui | 0.93
+COHR | H | BAISSIER | 232.38 | -47.06 | -26.77 | 32.87 | non | non | non | 299.13 | 299.63 | 291.08 | -1.9 | non | 1.11
+CRDO | H | BAISSIER | 169.42 | -44.99 | -3.69 | 37.05 | non | non | non | 199.57 | 205.74 | 181.09 | 3.03 | oui | 1.35
+CRSP | H | BAISSIER | 49.26 | -37.11 | -12.86 | 39.28 | non | non | non | 53.95 | 54.92 | 53.18 | -1.66 | non | 0.92
+GEV | H | BAISSIER | 918.86 | -23.13 | -2.16 | 40.15 | non | non | non | 968.76 | 962.7 | 938.16 | 1.17 | oui | 1.22
+KLIC | H | BAISSIER | 78.57 | -42.1 | -5.49 | 33.7 | non | non | non | 90.85 | 87.6 | 84.0 | 1.12 | non | 0.99
+LMT | H | BAISSIER | 551.89 | -27.96 | 3.37 | 64.93 | oui | oui | non | 516.64 | 542.94 | 563.96 | -0.41 | non | 1.19
+NXE | H | BAISSIER | 8.36 | -39.98 | -10.59 | 38.1 | non | non | non | 8.99 | 9.8 | 10.79 | -2.73 | non | 1.29
 RHM.DE | H | BAISSIER | 1095.0 | -44.21 | 8.03 | 65.78 | oui | oui | non | 977.51 | 1051.67 | 1312.67 | -0.22 | non | 1.23
 SAOC | H | BAISSIER | 25.24 | -9.66 | -1.71 | 34.1 | non | non | non | 25.58 | 25.98 | 26.19 | -0.18 | non | 0.81
-SEDG | H | BAISSIER | 31.57 | -61.05 | -8.89 | 44.57 | non | non | non | 32.6 | 32.88 | 42.0 | -2.75 | oui | 0.89
-SYM | H | BAISSIER | 38.86 | -55.66 | -7.19 | 40.49 | non | non | non | 42.26 | 41.76 | 49.54 | -1.83 | non | 1.07
-Graphiques et données complètes : analyse_technique/ (horodatage 2026-10-16_2118)
+SEDG | H | BAISSIER | 31.35 | -61.32 | -9.52 | 43.77 | non | non | non | 32.59 | 32.87 | 42.0 | -2.78 | oui | 0.95
+SYM | H | BAISSIER | 38.77 | -55.77 | -7.4 | 40.27 | non | non | non | 42.25 | 41.76 | 49.54 | -1.84 | non | 1.12
+Graphiques et données complètes : analyse_technique/ (horodatage 2026-10-16_2235)
 
 --- ALERTES DE SEUILS (seuils fixés, paliers, croisements de moyennes mobiles) ---
-VRT : 207.51 SOUS sa zone 240.0-255.0
-CCJ : 80.95 SOUS sa zone 85.0-95.0
-AAOI : 76.45 SOUS sa zone 80.0-100.0
-FN : 365.53 SOUS sa zone 400.0-450.0
-ANET : 178.15 à 1.8 % du haut de sa zone 160.0-175.0
-COHR : 234.39 SOUS son seuil de vigilance 280.0 (-16.3 %)
-MRVL : 229.65 à 0.3 % au-dessus de son seuil de vigilance 229.0
-SKHY : 137.64 SOUS son seuil de vigilance 171.0 (-19.5 %)
+VRT : 205.96 SOUS sa zone 240.0-255.0
+CCJ : 81.52 SOUS sa zone 85.0-95.0
+AAOI : 75.7 SOUS sa zone 80.0-100.0
+FN : 363.2 SOUS sa zone 400.0-450.0
+ANET : 176.77 à 1.0 % du haut de sa zone 160.0-175.0
+COHR : 232.38 SOUS son seuil de vigilance 280.0 (-17.0 %)
+MRVL : 228.01 SOUS son seuil de vigilance 229.0 (-0.4 %)
+SKHY : 136.47 SOUS son seuil de vigilance 171.0 (-20.2 %)
 XAIX [D] : passe SOUS la MM50 à la dernière clôture (211.1)
-ETN [D] : passe SOUS la MM200 à la dernière clôture (391.48)
-GOOG [D] : passe SOUS la MM50 à la dernière clôture (336.48)
-GOOG [D] : passe SOUS la MM200 à la dernière clôture (336.48)
-TTE [D] : passe AU-DESSUS de la MM50 à la dernière clôture (90.93)
-STNG [D] : passe SOUS la MM50 à la dernière clôture (81.76)
+ETN [D] : passe SOUS la MM200 à la dernière clôture (390.18)
+GOOG [D] : passe SOUS la MM50 à la dernière clôture (337.1)
+GOOG [D] : passe SOUS la MM200 à la dernière clôture (337.1)
+TTE [D] : passe AU-DESSUS de la MM50 à la dernière clôture (91.28)
+STNG [D] : passe SOUS la MM50 à la dernière clôture (81.15)
 2020.HK [C] : passe AU-DESSUS de la MM200 à la dernière clôture (77.85)
 3311.HK [C] : passe AU-DESSUS de la MM200 à la dernière clôture (8.7)
-AMD [H] : passe SOUS la MM50 à la dernière clôture (532.96)
+AMD [H] : passe SOUS la MM50 à la dernière clôture (528.95)
 AIR.PA [H] : passe AU-DESSUS de la MM50 à la dernière clôture (199.44)
 RHM.DE [H] : passe AU-DESSUS de la MM50 à la dernière clôture (1095.0)
-LMT [H] : passe AU-DESSUS de la MM50 à la dernière clôture (549.68)
-EQT [H] : passe AU-DESSUS de la MM50 à la dernière clôture (54.32)
-CPK [H] : passe AU-DESSUS de la MM50 à la dernière clôture (132.36)
+LMT [H] : passe AU-DESSUS de la MM50 à la dernière clôture (551.89)
+EQT [H] : passe AU-DESSUS de la MM50 à la dernière clôture (54.25)
+CPK [H] : passe AU-DESSUS de la MM50 à la dernière clôture (131.83)
 
 --- ERREURS RENCONTREES ---
 Analyse technique — 9973.HK introuvable sur eToro (essayés : 9973.HK, 09973.HK, CHERY)
